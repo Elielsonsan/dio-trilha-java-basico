@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class ContaTerminal {
- 
     public static void main(String[] args){
         
         //conhecer e importar classe Scanner        
